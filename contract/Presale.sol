@@ -1,6 +1,7 @@
 // File: crowdsale.sol
 
 // SPDX-License-Identifier: MIT
+// Email: leprofcode@gmail.com
 
 pragma solidity ^0.5.0;
 
